@@ -83,7 +83,9 @@ python main.py
 ├── scores.csv           # Session data (auto-generated)
 ├── stats_dashboard.png  # Dashboard output
 ├── numpy_analysis.png   # Analysis output
-└── README.md            # This file
+├── README.md            # This file
+├── .gitignore           # Git ignore rules
+└── .gitattributes       # Language detection rules
 ```
 
 ---
