@@ -1,0 +1,16 @@
+# Detect Python files
+*.py linguist-detectable=true
+
+# Documentation
+*.md linguist-documentation
+
+# Jupyter notebooks
+*.ipynb linguist-documentation
+
+# Ignore generated images from language stats
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.gif linguist-vendored
+
+# CSV data
+*.csv linguist-vendored
