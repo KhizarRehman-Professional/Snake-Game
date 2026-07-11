@@ -48,9 +48,6 @@ python main.py
 
 ## 📸 Screenshots
 
-### Gameplay
-> *Add screenshot of game here*
-
 ### Stats Dashboard
 ![Stats Dashboard](stats_dashboard.png)
 
